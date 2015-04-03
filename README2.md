@@ -42,11 +42,9 @@ Here's an animation also showing the completion functionality
 
 ![Animated gif](images/animation.gif "Animation that shows auto completion")
 
-## Thanks
+## Hugojl
 
 Thanks to
-[@vigneshwaranr](https://github.com/vigneshwaranr)
-for inspiring me to do a zsh version.
+[@rafaelCardns](https://github.com/rafaelcr)
+for inspiring me to do this version.
 
-Thanks to [@voria](https://github.com/voria) for many useful
-patches! (see commit log)
