@@ -40,7 +40,7 @@ If you prefer antigen over manual installation
 
 Here's an animation also showing the completion functionality
 
-![Animated gif](animation.gif "Animation that shows auto completion")
+![Animated gif](images/animation.gif "Animation that shows auto completion")
 
 ## Thanks
 
